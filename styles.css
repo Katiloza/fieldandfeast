@@ -72,7 +72,9 @@ nav a {
     text-decoration: none;
     font-weight: bold;
     font-size: 14pt;
+    padding: 0.5rem 1rem;
 }
+
 
 main {
     padding: 2rem 0;
@@ -206,7 +208,7 @@ footer a {
         }
 
     nav ul {
-    gap: 1rem;
+    gap: 1.5rem;
   }
 }
 
@@ -216,7 +218,7 @@ footer a {
     grid-template-columns: repeat(3, 1fr);
   }
   nav ul {
-    gap: 5rem;
+    gap: 2.5rem;
   }
 }
 
@@ -230,7 +232,6 @@ footer a {
     font-size: 1.125rem;
   }
   nav ul {
-    gap: 10rem;
+    gap: 3.5rem;
   }
-
 }
